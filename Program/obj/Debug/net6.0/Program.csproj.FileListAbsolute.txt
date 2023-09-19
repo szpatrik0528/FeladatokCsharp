@@ -1,0 +1,15 @@
+/Users/szivospatrikdavid/Projects/Program/Program/bin/Debug/net6.0/Program
+/Users/szivospatrikdavid/Projects/Program/Program/bin/Debug/net6.0/Program.deps.json
+/Users/szivospatrikdavid/Projects/Program/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/Users/szivospatrikdavid/Projects/Program/Program/bin/Debug/net6.0/Program.dll
+/Users/szivospatrikdavid/Projects/Program/Program/bin/Debug/net6.0/Program.pdb
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.dll
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/refint/Program.dll
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.pdb
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
+/Users/szivospatrikdavid/Projects/Program/Program/obj/Debug/net6.0/ref/Program.dll
