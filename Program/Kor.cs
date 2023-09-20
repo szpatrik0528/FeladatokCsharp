@@ -17,12 +17,12 @@ namespace Sikidom
 
         public override double Kerulet()
         {
-            return (2 * this.sugar) * Math.PI;
+            return Math.Round((2 * this.sugar) * Math.PI,2);
         }
 
         public override double Terulet()
         {
-            return (this.sugar * this.sugar) * Math.PI;
+            return Math.Round((this.sugar * this.sugar) * Math.PI,2);
         }
     }
 }
