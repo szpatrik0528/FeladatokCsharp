@@ -1,0 +1,7 @@
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\bin\Debug\Testek.exe.config
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\bin\Debug\Testek.exe
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\bin\Debug\Testek.pdb
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\obj\Debug\Testek.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\obj\Debug\Testek.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\obj\Debug\Testek.exe
+C:\Users\szivos.patrik.david\source\repos\szpatrik0528\FeladatokCsharp\Testek\obj\Debug\Testek.pdb
